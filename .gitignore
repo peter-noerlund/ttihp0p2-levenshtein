@@ -12,3 +12,7 @@ test/gate_level_netlist.v
 .vscode
 venv
 tt
+.orfs
+.pdk
+gds_render*
+src/config_merged.mk
